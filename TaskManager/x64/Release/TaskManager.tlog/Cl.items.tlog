@@ -1,0 +1,16 @@
+C:\Users\Дима\source\repos\TaskManager\TaskManager\AuthenticationModel.cpp;C:\Users\Дима\source\repos\TaskManager\TaskManager\x64\Release\AuthenticationModel.obj
+C:\Users\Дима\source\repos\TaskManager\TaskManager\AuthenticationPresenter.cpp;C:\Users\Дима\source\repos\TaskManager\TaskManager\x64\Release\AuthenticationPresenter.obj
+C:\Users\Дима\source\repos\TaskManager\TaskManager\AuthenticationView.cpp;C:\Users\Дима\source\repos\TaskManager\TaskManager\x64\Release\AuthenticationView.obj
+C:\Users\Дима\source\repos\TaskManager\TaskManager\main.cpp;C:\Users\Дима\source\repos\TaskManager\TaskManager\x64\Release\main.obj
+C:\Users\Дима\source\repos\TaskManager\TaskManager\MainController.cpp;C:\Users\Дима\source\repos\TaskManager\TaskManager\x64\Release\MainController.obj
+C:\Users\Дима\source\repos\TaskManager\TaskManager\TaskModel.cpp;C:\Users\Дима\source\repos\TaskManager\TaskManager\x64\Release\TaskModel.obj
+C:\Users\Дима\source\repos\TaskManager\TaskManager\TaskPresenter.cpp;C:\Users\Дима\source\repos\TaskManager\TaskManager\x64\Release\TaskPresenter.obj
+C:\Users\Дима\source\repos\TaskManager\TaskManager\TaskView.cpp;C:\Users\Дима\source\repos\TaskManager\TaskManager\x64\Release\TaskView.obj
+C:\Users\Дима\source\repos\TaskManager\TaskManager\x64\Release\rcc\qrc_TaskManager.cpp;C:\Users\Дима\source\repos\TaskManager\TaskManager\x64\Release\qrc_TaskManager.obj
+C:\Users\Дима\source\repos\TaskManager\TaskManager\x64\Release\moc\moc_AuthenticationView.cpp;C:\Users\Дима\source\repos\TaskManager\TaskManager\x64\Release\moc_AuthenticationView.obj
+C:\Users\Дима\source\repos\TaskManager\TaskManager\x64\Release\moc\moc_MainController.cpp;C:\Users\Дима\source\repos\TaskManager\TaskManager\x64\Release\moc_MainController.obj
+C:\Users\Дима\source\repos\TaskManager\TaskManager\x64\Release\moc\moc_AuthenticationPresenter.cpp;C:\Users\Дима\source\repos\TaskManager\TaskManager\x64\Release\moc_AuthenticationPresenter.obj
+C:\Users\Дима\source\repos\TaskManager\TaskManager\x64\Release\moc\moc_AuthenticationModel.cpp;C:\Users\Дима\source\repos\TaskManager\TaskManager\x64\Release\moc_AuthenticationModel.obj
+C:\Users\Дима\source\repos\TaskManager\TaskManager\x64\Release\moc\moc_TaskPresenter.cpp;C:\Users\Дима\source\repos\TaskManager\TaskManager\x64\Release\moc_TaskPresenter.obj
+C:\Users\Дима\source\repos\TaskManager\TaskManager\x64\Release\moc\moc_TaskModel.cpp;C:\Users\Дима\source\repos\TaskManager\TaskManager\x64\Release\moc_TaskModel.obj
+C:\Users\Дима\source\repos\TaskManager\TaskManager\x64\Release\moc\moc_TaskView.cpp;C:\Users\Дима\source\repos\TaskManager\TaskManager\x64\Release\moc_TaskView.obj
