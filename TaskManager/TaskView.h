@@ -63,8 +63,6 @@ private slots:
     void handleDataChanged(const QModelIndex& topLeft, const QModelIndex& bottomRight) {
         Q_UNUSED(topLeft);
         Q_UNUSED(bottomRight);
-
-        // Проверьте, были ли изменения данных
         if (!firstDataChange) {
             timer->stop();
             timer->start(5000); // 5000 миллисекунд (5 секунд)
@@ -106,7 +104,6 @@ private:
         // Подключите сигналы и слоты при необходимости
     }
 
-private:
     Ui::MainWindow ui;
     QTableView* dataTable;
     QStandardItemModel* model;
